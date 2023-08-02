@@ -52,4 +52,4 @@ Day-24:Parllel in parllel out
 
 Day-25:Parllel in serial out 
 
-Day-26:serial in parllel out
+Day-26:serial in par
